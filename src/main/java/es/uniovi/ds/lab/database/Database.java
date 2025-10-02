@@ -24,7 +24,7 @@ public class Database {
 
     public Collection<Restaurant> selectRestaurants() {
         var restaurants = new ArrayList<Restaurant>();
-        restaurants.add(new Restaurant("The Fat Gladiator", "Al fondo del foro a la derecha", "555 123 456"));
+        restaurants.add(new Restaurant("The Fat Gladiator", "Coliseo arriba", "555 123 456"));
         restaurants.add(new Restaurant("Mario Gross", "Via della Dataria", "555 123 457"));
         return restaurants;
     }
