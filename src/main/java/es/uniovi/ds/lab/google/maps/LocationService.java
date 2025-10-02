@@ -1,6 +1,6 @@
 package es.uniovi.ds.lab.google.maps;
 
-public class Navigator {
+public class LocationService {
 
     // Given an address, returns its coordinates
     public Coordinates convertAddressToCoordinates(String address) {
