@@ -28,7 +28,7 @@ public class Map {
     public void handleLongPress(int x, int y) {
         Marker marker = findMarker(x, y);
         if (marker != null)
-            marker.handleLongPress();
+            marker.open();
     }
 
     // Private helper method ----------------------
