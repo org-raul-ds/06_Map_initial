@@ -22,7 +22,7 @@ public class Map {
     public void handleShortPress(int x, int y) {
         Marker marker = findMarker(x, y);
         if (marker != null)
-            System.out.println("Tooltip: " + marker.handleShortPress());
+            System.out.println("Tooltip: " + marker.getInfo());
     }
 
     public void handleLongPress(int x, int y) {
