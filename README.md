@@ -1,11 +1,10 @@
 # Software Design Laboratory Class
 
+**⚠️ IMPORTANT NOTE:** This repository will be **deleted** at the end of the course. Make sure to save any code you want to keep elsewhere.
 
 ## 🎯 Goal
 
-
 ![alt](map.png)
-
 
 ## 💻 Submission Instructions
 
@@ -15,9 +14,6 @@ To submit your solution:
 - Run `git add -A`.
 - Run `git commit -m "final code"`.
 - Run `git push`.
-
-**⚠️ IMPORTANT NOTE:** This repository will be **deleted** at the end of the course. Make sure to save any code you want to keep elsewhere.
-
 
 ## ✅ Exercise Solution
 
